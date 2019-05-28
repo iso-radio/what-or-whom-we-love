@@ -3,9 +3,9 @@
 ![example](example.png "example")
 
 ### Abstract
-Rainbow text based on the colours from Gilbert Baker's 1979 rainbow flag design. You can read a bit more about the history of the design from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
+Easy rainbow text for friends and allies!
 
-Don't use this
+Based on the colours from Gilbert Baker's 1979 rainbow flag design for . You can read a bit more about the history of the design from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
 
 ### Features
 - Rainbow gradient text.
@@ -65,7 +65,7 @@ The name "What Or Whom We Love" is an interpolation from Maggie Nelson's *Bluets
 
 The type used in the demo image is *Inter Light* by [Rasmus Andersson](https://rsms.me/inter/).
 
----
+<br/><br/><br/>
 
 <p align="center">made w love by your friends at</p>
 <p align="center"><img src="https://ixi4jeb43ehhpm46.s3.amazonaws.com/assets/4us4others/4us.png" alt="4us"/></p>
