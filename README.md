@@ -5,7 +5,7 @@
 ### Abstract
 Easy rainbow text for friends and allies!
 
-Based on the colours from Gilbert Baker's 1979 rainbow flag design for . You can read a bit more about the history of the design from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
+Based on the colours from Gilbert Baker's 1979 updated rainbow flag design. You can read a bit more about the history of the design and what it means from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
 
 ### Features
 - Rainbow gradient text.
@@ -26,7 +26,7 @@ Include `what-or-whom-we-love.min.js"` at the end of your `body`. Afterwards, ca
 	<script type="text/javascript">
 		whomWeLove({
 			howWeLove: "gradient",
-            whereToShowVisibility: ".here"
+			whereToShowVisibility: ".here"
 		});
 	</script>
 </body>
