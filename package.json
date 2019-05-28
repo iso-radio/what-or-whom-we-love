@@ -1,0 +1,18 @@
+{
+  "name": "what-or-whom-we-love",
+  "version": "0.0.1",
+  "description": "rainbow text for friends and allies",
+  "main": "dist/what-or-whom-we-love.min.js",
+  "author": "Mackenzie Davidson <mwvdavidson@gmail.com> (https://mackenzie.blue)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwvd/what-or-whom-we-love.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
