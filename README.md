@@ -69,5 +69,5 @@ The type used in the demo image is *Inter Light* by [Rasmus Andersson](https://r
 
 <br/><br/><br/>
 
-<p align="center">made w love by your friends at</p>
-<p align="center"><img src="https://ixi4jeb43ehhpm46.s3.amazonaws.com/assets/4us4others/4us.png" alt="4us"/></p>
+<p align="center">made w love</p>
+<p align="center"><img src="iso.png" alt="4us"/></p>
