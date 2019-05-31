@@ -5,6 +5,8 @@
 ### Abstract
 Easy rainbow text for friends and allies!
 
+⚠️ Do not use this for your business page. This should be used by personal or non-profits only. See the license for more details.
+
 Based on the colours from Gilbert Baker's 1979 updated rainbow flag design. You can read a bit more about the history of the design and what it means from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
 
 ### Features
