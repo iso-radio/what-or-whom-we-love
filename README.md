@@ -7,7 +7,13 @@ Easy rainbow text for friends and allies!
 
 Based on the colours from Gilbert Baker's 1979 updated rainbow flag design. You can read a bit more about the history of the design and what it means from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
 
-⚠️ This was created for use by non-commerical entities, but is licensed under an MIT license. If you are a commerical entity and would like to include this package in your software, please consider [making a donation to The 519](http://www.the519.org/support-the-519), an organization in Toronto that provides support for Toronto's LGBTQ2S community. You can read more about The 519 [here](http://www.the519.org/about).
+> ⚠️
+>
+> This was created for use by private individuals and community organizations, but is licensed under an MIT license.
+>
+> If you want to use this for commercial reasons— honestly, think twice. Ask yourself, "Am I doing this to make my brand look more inclusive so I can sell more *X*?" If the answer is yes, please don't use this.
+>
+> If you've asked yourself the question above, and the answer is no, and you would like to include this package in your software, please consider [making a donation to The 519](http://www.the519.org/support-the-519), an organization in Toronto that provides support for Toronto's LGBTQ2S community. You can read more about The 519 [here](http://www.the519.org/about).
 
 ### Features
 - Rainbow gradient text.
