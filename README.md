@@ -42,17 +42,21 @@ whomWeLove({
 	howWeLove: 'stops',
 		// choose how you show colour stops.
 		// current options are:
-			// `stops` (hard colour stops)
-			// `gradient`, and
-			// `gradient-p` (gradient with some padding)
+			// 'stops' (hard colour stops)
+			// 'gradient'
+			// 'gradient-p' (gradient with some padding), and
+			// 'forever' (continuous gradient - ready for animating)
 	whereToShowVisibility: '.here-i-am'
 		// this the text you would like to apply pride colours to
 });
 ```
 
 ### Notes
-- Animate them if you like. In your CSS animate `background-position` in your keyframes, and add `background-size: 200% 0%` to your target div (see the [example](example.html)).
-- Q — "Couldn't you just do this with CSS?", A — Sure. [Here](dist/what-or-whom-we-love.css).
+- Animate them if you like. In your CSS animate `background-position` in your keyframes, and add `background-size: 200% 0%` to your target div (see the [example](example.html)). Setting `howWeLove: 'forever'`, works well with this.
+- Q — "Couldn't you just do this with CSS?", A — Sure. Here:
+	- You can link to [`what-or-whom-we-love.css`](dist/what-or-whom-we-love.css).
+	- Available classes are: `.wowwl_stops`, `.wowwl_gradient`, `.wowwl_gradient-p`, and `.wowwl_forever`.
+
 
 ### "Would be nice"s
 - It would be nice to be able to target all the text on a site. Right now if you target the body (or any div without text inside it) it makes the entire div's background the flag, and all the children inside inherit the same styles. While this is cool it is not ideal.
