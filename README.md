@@ -1,6 +1,6 @@
 <h1 align="center">What Or Whom We Love</h1>
 
-![example](example.png "example")
+![example](https://mwvd.github.io/what-or-whom-we-love/example.png "example")
 
 ### Abstract
 Easy rainbow text for friends and allies! Here's an [example](https://mwvd.github.io/what-or-whom-we-love/example.html)!
