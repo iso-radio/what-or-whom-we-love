@@ -7,7 +7,7 @@ Easy rainbow text for friends and allies!
 
 Based on the colours from Gilbert Baker's 1979 updated rainbow flag design. You can read a bit more about the history of the design and what it means from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
 
-⚠️ This was created for use by non-commerical entities, but is licensed under an MIT license. If you are a commerical entity and would like to include this package in your software, please consider [making a donation to The 519](http://www.the519.org/support-the-519), an organization in Toronto that provides support for Toronto LGBTQ2S community. You can read more about The 519 [here](http://www.the519.org/about).
+⚠️ This was created for use by non-commerical entities, but is licensed under an MIT license. If you are a commerical entity and would like to include this package in your software, please consider [making a donation to The 519](http://www.the519.org/support-the-519), an organization in Toronto that provides support for Toronto's LGBTQ2S community. You can read more about The 519 [here](http://www.the519.org/about).
 
 ### Features
 - Rainbow gradient text.
@@ -66,7 +66,7 @@ whomWeLove({
 ---
 
 ### Colophon
-The name "What Or Whom We Love" is an interpolation from Maggie Nelson's *Bluets*. Here's the full line it comes from:
+The name "What Or Whom We Love" comes from Maggie Nelson's *Bluets*. Here's the full line:
 > We don’t get to choose what or whom we love, I want to say. We just don’t get to choose.
 
 The type used in the demo image is *Inter Light* by [Rasmus Andersson](https://rsms.me/inter/).
