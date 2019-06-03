@@ -75,7 +75,7 @@ whomWeLove({
 The name "What Or Whom We Love" comes from Maggie Nelson's *Bluets*. Here's the full line:
 > We don’t get to choose what or whom we love, I want to say. We just don’t get to choose.
 
-The type used in the demo image is *Inter Light* by [Rasmus Andersson](https://rsms.me/inter/).
+The examples are typeset in *Inter Light* by [Rasmus Andersson](https://rsms.me/inter/) and Lab Mono by [Martin Wecke](https://martinwecke.de/).
 
 <br/><br/><br/>
 
