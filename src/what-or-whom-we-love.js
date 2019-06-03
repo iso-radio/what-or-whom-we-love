@@ -9,8 +9,12 @@ function whomWeLove (options) {
         var bakerBgImage = 'linear-gradient(to right, rgb(229, 0, 0) 0%, rgb(255, 141, 0) 20%, rgb(255, 255, 29) 40%, rgb(0, 129, 33) 60%, rgb(0, 76, 255) 80%, rgb(117, 1, 136) 100%)'
 
         // gradient-p
-        var bustyRossBg ='rgba(0, 0, 0, 0) linear-gradient(to right, rgb(229, 0, 0) 0%, rgb(255, 141, 0) 20%, rgb(255, 255, 29) 40%, rgb(0, 129, 33) 60%, rgb(0, 76, 255) 80%, rgb(117, 1, 136) 100%) repeat scroll 0% 0% / auto padding-box text';
-        var bustyRossBgImage = 'linear-gradient(to right, rgb(229, 0, 0) 0%, rgb(255, 141, 0) 20%, rgb(255, 255, 29) 40%, rgb(0, 129, 33) 60%, rgb(0, 76, 255) 80%, rgb(117, 1, 136) 100%)';
+        var bustyBg ='rgba(0, 0, 0, 0) linear-gradient(to right, rgb(229, 0, 0) 0%, rgb(255, 141, 0) 20%, rgb(255, 255, 29) 40%, rgb(0, 129, 33) 60%, rgb(0, 76, 255) 80%, rgb(117, 1, 136) 100%) repeat scroll 0% 0% / auto padding-box text';
+        var bustyBgImage = 'linear-gradient(to right, rgb(229, 0, 0) 0%, rgb(255, 141, 0) 20%, rgb(255, 255, 29) 40%, rgb(0, 129, 33) 60%, rgb(0, 76, 255) 80%, rgb(117, 1, 136) 100%)';
+
+        // gradient-forever
+        var rossBg ='rgba(0, 0, 0, 0) linear-gradient(to right, rgb(229, 0, 0) 0%, rgb(255, 141, 0) 10%, rgb(255, 255, 29) 30%, rgb(0, 129, 33) 50%, rgb(0, 76, 255) 70%, rgb(117, 1, 136) 90%, rgb(229, 0, 0) 100%) repeat scroll 0% 0% / auto padding-box text';
+        var rossBgImage = 'linear-gradient(to right, rgb(229, 0, 0) 0%, rgb(255, 141, 0) 10%, rgb(255, 255, 29) 30%, rgb(0, 129, 33) 50%, rgb(0, 76, 255) 70%, rgb(117, 1, 136) 90%, rgb(229, 0, 0) 100%)';
 
         options.howWeLove = options.howWeLove || 'stops';
         options.whereToShowVisibility = options.whereToShowVisibility || '.here-i-am';
@@ -33,8 +37,12 @@ function whomWeLove (options) {
                 document.getElementById(withMe).style.backgroundImage = bakerBgImage;
                 dontBreakMePls()
             } else if (options.howWeLove === 'gradient-p') {
-                document.getElementById(withMe).style.background = bustyRossBg;
-                document.getElementById(withMe).style.backgroundImage = bustyRossBgImage;
+                document.getElementById(withMe).style.background = bustyBg;
+                document.getElementById(withMe).style.backgroundImage = bustyBgImage;
+                dontBreakMePls()
+            } else if (options.howWeLove === 'forever') {
+                document.getElementById(withMe).style.background = rossBg;
+                document.getElementById(withMe).style.backgroundImage = rossBgImage;
                 dontBreakMePls()
             } else {
                 console.log("seems you've entered an unexpected value for howWeLove :( you can use, 'stops', 'gradient', or 'padded-gradient'. please try again! :)")
@@ -56,8 +64,12 @@ function whomWeLove (options) {
                     document.getElementsByClassName(withMe)[i].style.backgroundImage = bakerBgImage;
                     meNeither()
                 } else if (options.howWeLove === 'gradient-p') {
-                    document.getElementsByClassName(withMe)[i].style.background = bustyRossBg;
-                    document.getElementsByClassName(withMe)[i].style.backgroundImage = bustyRossBgImage;
+                    document.getElementsByClassName(withMe)[i].style.background = bustyBg;
+                    document.getElementsByClassName(withMe)[i].style.backgroundImage = bustyBgImage;
+                    meNeither()
+                } else if (options.howWeLove === 'forever') {
+                    document.getElementsByClassName(withMe)[i].style.background = rossBg;
+                    document.getElementsByClassName(withMe)[i].style.backgroundImage = rossBgImage;
                     meNeither()
                 } else {
                     console.log("seems you've entered an unexpected value for howWeLove :( you can use, 'stops', 'gradient', or 'padded-gradient'. please try again! :)")
