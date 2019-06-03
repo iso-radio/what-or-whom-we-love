@@ -74,4 +74,4 @@ The type used in the demo image is *Inter Light* by [Rasmus Andersson](https://r
 <br/><br/><br/>
 
 <p align="center">made w love</p>
-<a href="https://isoradio.to" target="_blank" align="center"><img src="iso.png" alt="4us"/></a>
+<a href="https://isoradio.to" target="_blank" align="center"><img src="iso.png" alt="in seach of"/></a>
