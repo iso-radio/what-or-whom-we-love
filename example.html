@@ -14,15 +14,7 @@
         .nav { font-size:0.6em; }
         .gh { position:fixed;bottom:1.8em;right:1.8em;cursor:alias }
         .npm { position:fixed;bottom:2em;left:2em; }
-        .code {
-            font-family:'Lab Mono Web';
-            font-size: 0.6em;
-            padding: 0.2em 0.6em;
-            background: rgba(102, 102, 102, 0.33);
-            border-radius: 0.3em;
-            color: inherit;
-            text-decoration: none;
-        }
+        .code { font-family:'Lab Mono Web';font-size:0.6em;padding:0.2em 0.6em;background:rgba(102, 102, 102, 0.33);border-radius:0.3em;color:inherit;text-decoration:none; }
         button { cursor:pointer; }
         #result { font-size:0.6em }
     </style>
@@ -37,7 +29,8 @@
     </div>
 
     <div class="nav">
-        <a class="gh" href="https://github.com/mwvd/what-or-whom-we-love" target="_blank">docs</a><br/>
+        <!-- <a class="gh" href="https://github.com/mwvd/what-or-whom-we-love" target="_blank">docs</a><br/> -->
+        <a class="gh" href="https://www.npmjs.com/package/what-or-whom-we-love" target="_blank">docs</a><br/>
         <div class="npm">
             <span class="code">$ npm install what-or-whom-we-love</span> <button class="copy" data-clipboard-text="npm install what-or-whom-we-love">copy</button> <span id="result"></span>
         </div>
