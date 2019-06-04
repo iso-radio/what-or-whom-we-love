@@ -1,9 +1,9 @@
 <h1 align="center">What Or Whom We Love</h1>
 
-![example](https://mwvd.github.io/what-or-whom-we-love/example.png "example")
+![example](https://iso-radio.github.io/what-or-whom-we-love/example.png "example")
 
 ### Abstract
-Easy rainbow text for friends and allies! Here's an [example](https://mwvd.github.io/what-or-whom-we-love/example.html)!
+Easy rainbow text for friends and allies! Here's an [example](https://iso-radio.github.io/what-or-whom-we-love/example.html)!
 
 Based on the colours from Gilbert Baker's 1979 updated rainbow flag design. You can read a bit more about the history of the design and what it means from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
 
