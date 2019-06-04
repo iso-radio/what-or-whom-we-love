@@ -7,7 +7,7 @@ Easy rainbow text for friends and allies! Here's an [example](https://mwvd.githu
 
 Based on the colours from Gilbert Baker's 1979 updated rainbow flag design. You can read a bit more about the history of the design and what it means from [this article on Wikipedia](https://en.wikipedia.org/wiki/Rainbow_flag_%28LGBT_movement%29).
 
-> ⚠️
+⚠️ ⤵
 >
 > This was created for use by private individuals and community organizations, but is licensed under an MIT license.
 >
