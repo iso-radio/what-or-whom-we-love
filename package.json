@@ -1,13 +1,13 @@
 {
   "name": "what-or-whom-we-love",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "rainbow text for friends and allies",
   "main": "dist/what-or-whom-we-love.min.js",
   "author": "Mackenzie Davidson <mwvdavidson@gmail.com> (https://mackenzie.blue)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mwvd/what-or-whom-we-love.git"
+    "url": "https://github.com/iso-radio/what-or-whom-we-love.git"
   },
   "keywords": [
       "typography",
