@@ -25,7 +25,7 @@ Installation
 
 `npm install what-or-whom-we-love`
 
-Include `what-or-whom-we-love.min.js"` at the end of your `body`. Afterwards, call `whomWeLove();`, and pass your options.
+Include `what-or-whom-we-love.min.js` at the end of your `body`. Afterwards, call `whomWeLove();`, and pass your options.
 
 **Important** — Make sure that the `<div>` or `<span>` you're targeting contains text, or it will just make the background of the div the LGBTQA+ flag (although..... this could be a feature lol).
 
